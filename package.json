@@ -1,0 +1,17 @@
+{
+  "name": "hey-gpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^5.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "yarn tsc",
+    "start": "yarn build && node dist/main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
